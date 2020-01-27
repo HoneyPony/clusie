@@ -1,0 +1,69 @@
+Assembler instructions
+----------------------
+
+term
+
+stu8
+stu16
+stu32
+stu64
+
+sti8
+sti16
+sti32
+sti64
+
+stf32
+stf64
+
+stptr
+
+st2u8
+st2u16
+st2u32
+st2u64
+
+st2i8
+st2i16
+st2i32
+st2i64
+
+st2f32
+st2f64
+
+st2ptr
+
+uj
+ uja
+ uja2
+ uja4
+
+cj
+ cja
+ cja2
+ cja4
+
+c2j
+ c2ja
+ c2ja2
+ c2ja4
+
+c4j
+ c4ja
+ c4ja2
+ c4ja4
+ 
+wru8 : write to pointer
+wru16
+wru32
+wru64
+wrc : write to pointer (from slot)
+ 
+Operational instructions
+------------------------
+
+constant (#)
+load (@)
+load2 (@)
+
+sa : slot address
